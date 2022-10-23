@@ -1,0 +1,2 @@
+# djangopt
+django_practice
